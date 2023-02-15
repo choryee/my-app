@@ -40,6 +40,7 @@ const add=()=>{ //변수형태로 함수 만들기
 
 //데이더를 받음. 6강
 const[users,setUsers]=useState([]);
+
 const download=()=>{
 let sample=[
   {id:1, name:"홍길동"},
